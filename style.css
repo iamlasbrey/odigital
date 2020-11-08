@@ -184,6 +184,7 @@
     padding: 0em 3em;
     font-family: inter;
     margin-bottom: 2em;
+    text-align: center;
 }
 
 .why-choose h1{
@@ -306,10 +307,6 @@
     border-bottom: 2px solid #a30114;
 }
 
-
-.why-choose p{
-    text-align: left;
-}
 
 .why-choose-use-items{
     display: flex;
