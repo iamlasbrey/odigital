@@ -1,0 +1,9 @@
+const menuBtn = document.querySelector(".menu-btn");
+const menuItems = document.querySelector(".menu-container-white");
+
+menuBtn.addEventListener('click', ()=>{
+    menuBtn.classList.toggle("open")
+    menuItems.classList.toggle("open")
+})
+
+
